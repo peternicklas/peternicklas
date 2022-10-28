@@ -1,6 +1,6 @@
 👋 Hi, I’m @peternicklas
 
-👀 I’m interested in macOS and iOS develeopment.
+I’m interested in requirements engineering, iOS and macOS development.
 
 
 <!---
